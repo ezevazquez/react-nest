@@ -1,12 +1,14 @@
 function App() {
   return (
-    <button onClick={async () => {
-      const response = await fetch('/api')
-      const data = await response.json()
-      console.log(data)
-    }}>
-      Click me
-    </button>
+    <div className="container">
+        <button onClick={async () => {
+        const response = await fetch('/api')
+        const data = await response.text()
+        console.log(data)
+      }}>
+        Tocame
+      </button>
+    </div>
   )
 }
 
