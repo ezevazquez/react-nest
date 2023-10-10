@@ -1,6 +1,6 @@
 
 > client@0.0.0 build
-> tsc && vite build
+> vite build
 
 vite v4.4.11 building for production...
 transforming...
@@ -10,4 +10,4 @@ computing gzip size...
 dist/index.html                   0.45 kB │ gzip:  0.29 kB
 dist/assets/index-85afbc95.css    0.94 kB │ gzip:  0.51 kB
 dist/assets/index-6abc11c0.js   143.03 kB │ gzip: 45.88 kB
-✓ built in 409ms
+✓ built in 412ms
