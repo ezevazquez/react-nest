@@ -1,4 +1,4 @@
-import './App.css';
+import './app.css';
 import jesi1 from "../assets/jesi1.png";
 import jesi2 from "../assets/jesi2.png";
 
