@@ -10,6 +10,6 @@ computing gzip size...
 dist/index.html                   0.45 kB │ gzip:  0.29 kB
 dist/assets/jesi2-79d8c3ed.png  259.30 kB
 dist/assets/jesi1-5f6eb99c.png  976.66 kB
-dist/assets/index-9d481897.css    1.44 kB │ gzip:  0.64 kB
-dist/assets/index-784ca35c.js   143.36 kB │ gzip: 46.00 kB
-✓ built in 411ms
+dist/assets/index-b5a446af.css    1.44 kB │ gzip:  0.65 kB
+dist/assets/index-8c493d4a.js   143.36 kB │ gzip: 46.00 kB
+✓ built in 410ms
