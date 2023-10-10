@@ -13,6 +13,13 @@ function Navbar() {
         <li className="nav-item">
           <a href="/api">Backend</a>
         </li>
+        {/* <button onClick={async () => {
+          const response = await fetch('/api')
+          const data = await response.text()
+          console.log(data)
+        }}>
+        Tocame
+        </button> */}
       </ul>
     </nav>
   );
