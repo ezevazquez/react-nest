@@ -5,7 +5,6 @@ function Body() {
   return (
     <div className="body">
       <Helmet>
-        <meta name="description" content='El proyecto de Jesi' />
         <meta property="og:title" content='El proyecto de Jesi' />
         <meta property="og:description" content='Acá va la descripción de Jesi' />
         <meta property="og:image" content='./assets/socialcard-jesi1.png' />
