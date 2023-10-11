@@ -1,7 +1,9 @@
+import './body.css'
+
 function Body() {
   return (
     <div className="body">
-      <h1>Aguantame Jesi que estoy haciendo unos cambiecitos</h1>
+      <h1>Hola Jesi</h1>
     </div>
   );
 }

@@ -1,0 +1,17 @@
+.contenedor-imagenes {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Divide el contenedor en dos columnas iguales */
+  gap: 10px; /* Espacio entre las imágenes */
+}
+
+.imagen {
+  width: 100%; /* Ocupa todo el ancho de su columna */
+  height: auto; /* Ajusta la altura automáticamente para mantener la relación de aspecto */
+  border: 2px solid #FFC0CB; /* Borde rosa */
+}
+
+@media (max-width: 767px) {
+  .contenedor-imagenes {
+    grid-template-columns: 1fr; /* Cambia a una sola columna en dispositivos móviles */
+  }
+}
