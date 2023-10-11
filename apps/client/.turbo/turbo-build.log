@@ -7,9 +7,10 @@ transforming...
 ✓ 48 modules transformed.
 rendering chunks...
 computing gzip size...
-dist/index.html                   0.46 kB │ gzip:  0.30 kB
-dist/assets/jesi2-79d8c3ed.png  259.30 kB
-dist/assets/jesi1-5f6eb99c.png  976.66 kB
-dist/assets/index-01fae167.css    1.25 kB │ gzip:  0.63 kB
-dist/assets/index-2230836c.js   161.10 kB │ gzip: 52.29 kB
-✓ built in 459ms
+dist/index.html                     0.47 kB │ gzip:  0.30 kB
+dist/assets/favicon-943e21ec.ico   14.19 kB
+dist/assets/jesi2-79d8c3ed.png    259.30 kB
+dist/assets/jesi1-5f6eb99c.png    976.66 kB
+dist/assets/index-01fae167.css      1.25 kB │ gzip:  0.63 kB
+dist/assets/index-2230836c.js     161.10 kB │ gzip: 52.29 kB
+✓ built in 449ms
