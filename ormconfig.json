@@ -1,0 +1,12 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "tu-usuario",
+    "password": "tu-contrasena",
+    "database": "test-db",
+    "entities": ["dist/**/*.entity.js"],
+    "synchronize": true,
+    "logging": true
+  }
+  
