@@ -1,12 +1,12 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.Task = void 0;
+exports.Task = exports.TaskStatus = void 0;
 var TaskStatus;
 (function (TaskStatus) {
     TaskStatus["PENDING"] = "PENDING";
     TaskStatus["OPEN"] = "IN_PROGRESS";
     TaskStatus["DONE"] = "DONE";
-})(TaskStatus || (TaskStatus = {}));
+})(TaskStatus || (exports.TaskStatus = TaskStatus = {}));
 class Task {
 }
 exports.Task = Task;

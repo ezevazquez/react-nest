@@ -1,4 +1,4 @@
-declare enum TaskStatus {
+export declare enum TaskStatus {
     PENDING = "PENDING",
     OPEN = "IN_PROGRESS",
     DONE = "DONE"
@@ -9,4 +9,3 @@ export declare class Task {
     description: string;
     status: TaskStatus;
 }
-export {};

@@ -1,4 +1,4 @@
-enum TaskStatus {
+export enum TaskStatus {
     PENDING = 'PENDING',
     OPEN = 'IN_PROGRESS',
     DONE = 'DONE',
